@@ -1,0 +1,29 @@
+body{
+	background-color: #1a916D;
+	color: black;
+}
+
+.intro-header{
+	background-image: url('https://s3-us-west-1.amazonaws.com/stanford.ucomm.newsms.media/wp-content/uploads/2016/11/10165436/environment_GettyImages-501231894.jpg');
+}
+
+.form-control::placeholder{
+	color: white;
+	font-style: italic;
+}
+
+.form-control{
+	color: black;
+}
+
+label{
+	color: black;
+}
+
+label: focus{
+	color: black;
+}
+
+.copyright{
+	color: black;
+}
